@@ -1,0 +1,2 @@
+rootProject.name='TestJellyBean'
+include ':app'
